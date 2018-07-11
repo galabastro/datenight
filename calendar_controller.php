@@ -45,7 +45,7 @@ class CalendarController
     }
 
     /**
-     * Undocumented function
+     * Makes the Google API call 
      *
      * @param   string  $service                            GoogleResource from API
      * @param   string  $calendarId                         Calendar Name
