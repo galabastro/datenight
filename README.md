@@ -1,8 +1,8 @@
 # Date Night Scheduler
 
-## This was created for Age of Learning coding example.
+### This was created for Age of Learning coding example.
 
-## I attempted to write code in a night addressing the prompt.
+### I attempted to write code in a night addressing the prompt.
 
 ![Image of Us](https://i.imgur.com/x4r8DDT.jpg)
 
