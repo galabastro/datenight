@@ -10,7 +10,7 @@
 
 The purpose of this was to create code within a day for something that I wanted to make personally for a while while showing my expertise. My girlfriend is working a varied shift ranging from graveyard and swing shift, and even with the use of Google Calendar, I thought it would be nice to see how much time we would have for a date night, if any, and (in the future), create a Google Event inviting her to a date night.
 
-This application takes from my Google Calendar when my work shift ends and when my girlfriend's starts. It let's me about our date night possiblity.
+This application takes from my Google Calendar when my work shift ends and when my girlfriend's starts. It let's me about our date night possibility.
 
 ## [Instructions via images](https://imgur.com/a/BTYboTz)
 
