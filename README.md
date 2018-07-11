@@ -8,7 +8,9 @@
 
 ### A little background on the project:
 
-The purpose of this was to create code within a day for something that I wanted to make persoanlly for a while while showing my expertise. My girlfriend is working a varied shift ranging from graveyard and swing shift, and even with the use of Google Calendar, I thought it would be nice to see how much time we would have for a date night, if any, and (in the future), create a Google Event inviting her to a date night.
+The purpose of this was to create code within a day for something that I wanted to make personally for a while while showing my expertise. My girlfriend is working a varied shift ranging from graveyard and swing shift, and even with the use of Google Calendar, I thought it would be nice to see how much time we would have for a date night, if any, and (in the future), create a Google Event inviting her to a date night.
+
+This application takes from my Google Calendar when my work shift ends and when my girlfriend's starts. It let's me about our date night possiblity.
 
 ## [Instructions via images](https://imgur.com/a/BTYboTz)
 
@@ -24,6 +26,6 @@ You won't be able to run the code because I have reserved the sercret key for th
 Please feel free to jump through the commits to see the progress made or contact me. I would invite disscussion of code always.
 
 ## #TODO:
-* Update documentation for each function
-* Allow for choosing the date rather than just for today
-* Front-end component
+- ~~Update documentation for each function~~
+- Allow for choosing the date rather than just for today
+- Front-end component
