@@ -1,5 +1,7 @@
 <?php
 
 $ENV = array(
-    "girlfriend_gmail" => ""
+    "my_work" => "",
+    "girlfriend_gmail" => "",
+    "girlfriend_work" => "",
 );
