@@ -1,3 +1,5 @@
-/vendor/
-/client_secret.json
 /.env.php
+/client_secret.json
+/credentials.json
+
+/vendor/
